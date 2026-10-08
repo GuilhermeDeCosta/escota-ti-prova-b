@@ -16,7 +16,7 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | | | |
+| — | https://github.com/endersonmenezes/talks/blob/main/courses/escola-de-ti/evaluation/practical_exam/examples/track-01-sdd/example-response/tests.md | | Utilizado o exemplo para fazer partes da prova |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
@@ -38,7 +38,8 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| — | | |
+| — | https://share.gemini.google/sD5pGjl57NRq | Foi inicialmente utilizando para eu fazer login, por que havia esquecido de como fazer. Depois utilizei para fazer perguntas de como estava ficando e algumas ideias |
+| — | https://claude.ai/share/6c918a98-8134-4938-9605-32aaf0b6ae9e | Foi utilizado o link do exemplo disponibilizado pelo professor de um exemplo |
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
