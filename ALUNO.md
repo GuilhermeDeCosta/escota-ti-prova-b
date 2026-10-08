@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: GuilhermeDeCosta
+Nome: Guilherme da Costa Castro
 
-RA: >>> PREENCHER <<<
+RA: 23126934-2
 
 Conta GitHub: @GuilhermeDeCosta
 
