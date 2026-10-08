@@ -16,7 +16,7 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | https://github.com/endersonmenezes/talks/blob/main/courses/escola-de-ti/evaluation/practical_exam/examples/track-01-sdd/example-response/tests.md | | Utilizado o exemplo para fazer partes da prova |
+| — | https://github.com/endersonmenezes/talks/blob/main/courses/escola-de-ti/evaluation/practical_exam/examples/track-01-sdd/example-response/tests.md | Utilizado o exemplo para fazer partes da prova | Basicamente boa parte da estrutura de como foi feito |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
