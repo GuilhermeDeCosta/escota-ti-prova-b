@@ -32,3 +32,10 @@ Python 3.11 + FastAPI + uvicorn, persistência em memória, testes com pytest + 
 
 > [!NOTE]
 > `PORTA_SERVICO = 8001` é a porta documentada no README e em `EXPOSE`; 8080 é auxiliar. O Dockerfile faz `EXPOSE 8001 8080`.
+
+## Fluxo de geração esperado
+
+1. Criar `config.py`, `clock.py`, `errors.py`, `pricing.py` (base sem dependência de HTTP).
+2. Criar `store.py` e `service.py`, depois `main.py` e `server.py`.
+3. Escrever os testes de `tests.md`, rodar `pytest` e corrigir até passar tudo.
+4. Criar `Dockerfile`, `Containerfile`, `.dockerignore`, `.gitignore`, `requirements.txt`, `README.md`.
